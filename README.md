@@ -1,2 +1,2 @@
-# Keith's Photography &amp; Trips Captures
+# Keith's Photography 
 Repo Name: kaj_photography
